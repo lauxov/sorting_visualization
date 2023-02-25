@@ -1,6 +1,8 @@
 # Bubble Sort Visualization
 This is a Python program that visualizes the Bubble Sort algorithm for sorting an array of integers. The program uses the Pygame library to create a graphical interface and the pygame.mixer module to play sound effects during the sorting process.
 
+
+
 # Installation
 To run the program, you need to have Python 3 installed on your system, as well as the Pygame library. If you don't have Pygame installed, you can install it using pip by running the following command in your terminal:
 
