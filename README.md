@@ -2,7 +2,7 @@
 
 This project provides a visualization of four common sorting algorithms: bubble sort, selection sort, insertion sort, and quicksort. The user can choose which algorithm to visualize using a command line argument. The bars on the screen represent elements in an array being sorted. The height of each bar corresponds to the value of the element.
 
-https://youtu.be/qc1HsVWZJdk
+https://youtu.be/BO_GKAWSuog
 
 # Getting Started
 To use this project, first clone the repository:
